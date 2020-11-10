@@ -27,7 +27,7 @@ export default defineComponent({
         element: inputRef.value,
         numberOfMonths: 2,
         numberOfColumns: 1,
-        mobileFriendly: true,
+        mobileFriendly: false,
         maxDays: null,
         singleMode: false,
         showTooltip: false,

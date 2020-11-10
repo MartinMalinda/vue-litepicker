@@ -1,0 +1,18 @@
+{
+  "name": "vue-litepicker",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "litepicker": "^1.5.7",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "node-sass": "^5.0.0",
+    "sass": "^1.29.0",
+    "vite": "^1.0.0-rc.8"
+  }
+}
